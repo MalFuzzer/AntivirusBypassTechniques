@@ -13,8 +13,9 @@ In addition, you will learn how to use basic static and dynamic malware analysis
 
 You will learn our two approaches of antivirus bypass research:
 
-Discovering and exploiting vulnerabilities in one of the antivirus components.
-Use of a detection-based bypass technique.
+* Discovering and exploiting vulnerabilities in one of the antivirus components.
+
+* Use of a detection-based bypass technique.
 After learning our two approaches, you will read about each approach separately, with practical examples of bypassing each engine that exists in antivirus software.
 
 At the end of the book, you will learn what can be done and how we can protect antivirus engines from various antivirus bypass techniques.
