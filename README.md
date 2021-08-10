@@ -1,4 +1,4 @@
-# AntivirusBypassTechniques
+# Antivirus Bypass Techniques
 Learn Practical Techniques and Tactics to Combat, Bypass, and Evade Antivirus Software
 
 Antiviruses are designed to protect the end user from Malware threats (viruses, Trojans, ransomware, worms, etc.).
