@@ -21,4 +21,4 @@ After learning our two approaches, you will read about each approach separately,
 
 At the end of the book, you will learn what can be done and how we can protect antivirus engines from various antivirus bypass techniques.
 
-Antivirus Bypass Techniques: Learn practical techniques and tactics to combat, bypass, and evade antivirus software – ORDER NOW: https://www.amazon.com/Antivirus-Bypass-Techniques-practical-techniques/dp/1801079749
+Buy the book from here: https://www.amazon.com/Antivirus-Bypass-Techniques-practical-techniques/dp/1801079749
