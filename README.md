@@ -1,8 +1,6 @@
 # Antivirus Bypass Techniques
+## Learn Practical Techniques and Tactics to Combat, Bypass, and Evade Antivirus Software
 ![alt text](https://github.com/MalFuzzer/AntivirusBypassTechniques/blob/main/antivirus_bypass_techniques_cover.jpg)
-
-
-Learn Practical Techniques and Tactics to Combat, Bypass, and Evade Antivirus Software
 
 Antiviruses are designed to protect the end user from Malware threats (viruses, Trojans, ransomware, worms, etc.).
 
